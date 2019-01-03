@@ -13,6 +13,10 @@ Use the following code to start a terminal from shell
 ```
 ./run @mode=simple -n
 ```
+Use the following code to start a terminal and save the grammar.
+```
+./run @mode=simple -Grammar.inPaths data/tutorial-arithmetic.grammar
+```
 
 **1. Logical forms and denotations**
 
