@@ -1,5 +1,5 @@
 ## Sempre exercise solutions collection
-**Sempre**: Semantic Parsing with Execution is an open source tool for cusomizing and building a semantic parser.
+**Sempre**: Semantic Parsing with Execution is an open source tool for customizing and building a semantic parser.
 
 Sempre can be downloaded and all its documentation and tutorial can be found at 
 https://github.com/percyliang/sempre
